@@ -1,3 +1,5 @@
 git_foo
 =======
-Hello brother
+also some thing.
+Hello brother.
+this is a new commit.
